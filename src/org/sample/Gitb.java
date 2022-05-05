@@ -16,6 +16,9 @@ public class Gitb {
 		
 		System.out.println("hi");
 		
+		int[] c= new int[5];
+		c[1]=10;
+		c[2]=20;
 		
 	}
 
