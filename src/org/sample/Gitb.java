@@ -11,8 +11,9 @@ public class Gitb {
 		String s = new String(); 
 		s.chars();
 		
-		System.out.println(a+b);
 		
+		System.out.println(a+b);
+		System.out.println("B method");
 		
 		System.out.println("hi");
 		
